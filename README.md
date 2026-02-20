@@ -7,3 +7,11 @@
 - 🌱 I’m currently learning React Native, React, MERN Stack, Java Language.
 - 💬 Ask me about HTML, CSS, JavaScript, Java, Full Stack Development.
 - 📫 How to reach me: yugpunjabi14@gmail.com
+- 
+ ## 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yugpunjabi/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
