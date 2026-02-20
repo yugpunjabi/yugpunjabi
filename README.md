@@ -21,3 +21,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,firebase,git,html,java,js,mongodb,mysql,nodejs,python,react,tailwind" />
 </p>
+
+## 📊 My GitHub Stats
+
+![Yug's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugpunjabi&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugpunjabi&layout=compact&theme=tokyonight)
