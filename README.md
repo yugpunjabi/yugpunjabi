@@ -8,10 +8,16 @@
 - 💬 Ask me about HTML, CSS, JavaScript, Java, Full Stack Development.
 - 📫 How to reach me: yugpunjabi14@gmail.com
 - 
- ## 🌐 Connect with me:
+ ## Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yugpunjabi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+</p>
+
+## Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,firebase,git,html,java,js,mongodb,mysql,nodejs,python,react,tailwind" />
 </p>
